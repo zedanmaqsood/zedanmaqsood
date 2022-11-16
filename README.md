@@ -1,4 +1,4 @@
-[![MasterHead](./your-header-image-name.png)](https://zedanmaqsood.web.app/)
+[![MasterHead](./github-header-image.png)](https://zedanmaqsood.web.app/)
 <h1 align="center">Hi , I'm Zedan Maqsood</h1>
 <h3 align="center">An aspiring software developer.</h3>
 

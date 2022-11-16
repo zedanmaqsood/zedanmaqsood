@@ -6,7 +6,7 @@
 
 - 👨‍💻 Checkout my portfolio website [zedanmaqsood.web.app](https://zedanmaqsood.web.app/)
 
-- 💬 Ask me about **Python, JavaScripts & Angular**
+- 💬 Ask me about **Python, JavaScript & Angular**
 
 - 📫 How to reach me **zedane034@gmail.com**
 
